@@ -1,5 +1,5 @@
 <h1 align="center"> MarkdownEmoji </h1>
-<p align="center"> Markdown语法支持添加 `emoji` 表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情 </p>
+<p align="center"> 在Markdown中插入emoji代码美化博客 </p>
 
 <p align="center">
  	<a href="https://github.com/gongsir0630/MarkdownEmoji/issues">
@@ -17,6 +17,12 @@
 </p>
 
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+
+## Note
+在Markdown中输入两个冒号`:`，在冒号中间输入特定符号，即可转化为`emoji`表情
+|code|ico|
+|-|-|
+|`:fire:`|:fire:|
 
 ## Table of Contents
 
